@@ -1,0 +1,2386 @@
+{
+  "nodes": [
+    {
+      "id": "russia",
+      "frequency": 13,
+      "sentiment": -0.06635294456874144
+    },
+    {
+      "id": "emergency",
+      "frequency": 11,
+      "sentiment": -0.042424295364357864
+    },
+    {
+      "id": "fast",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "congress",
+      "frequency": 25,
+      "sentiment": -0.031547165246391076
+    },
+    {
+      "id": "celebrating",
+      "frequency": 15,
+      "sentiment": 0.04118128716185756
+    },
+    {
+      "id": "benghazi",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "end",
+      "frequency": 6,
+      "sentiment": -0.15046694444444444
+    },
+    {
+      "id": "said",
+      "frequency": 17,
+      "sentiment": -0.012669038836754314
+    },
+    {
+      "id": "administration",
+      "frequency": 10,
+      "sentiment": -0.05422981883818342
+    },
+    {
+      "id": "attacked",
+      "frequency": 8,
+      "sentiment": -0.06730143849206349
+    },
+    {
+      "id": "arabia",
+      "frequency": 61,
+      "sentiment": 0.0001601287621094027
+    },
+    {
+      "id": "wants",
+      "frequency": 9,
+      "sentiment": 0.04969194554673721
+    },
+    {
+      "id": "bill",
+      "frequency": 9,
+      "sentiment": -0.05845242256393298
+    },
+    {
+      "id": "campaign",
+      "frequency": 10,
+      "sentiment": 0.02818480241402116
+    },
+    {
+      "id": "bypass",
+      "frequency": 9,
+      "sentiment": -0.09429694334215168
+    },
+    {
+      "id": "according",
+      "frequency": 18,
+      "sentiment": 0.03381568829765553
+    },
+    {
+      "id": "arms",
+      "frequency": 10,
+      "sentiment": -0.009429694334215168
+    },
+    {
+      "id": "allowing",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "scandals",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "deal",
+      "frequency": 7,
+      "sentiment": 0.057418392857142855
+    },
+    {
+      "id": "donald",
+      "frequency": 65,
+      "sentiment": -0.0071704906107776835
+    },
+    {
+      "id": "gtconway3d",
+      "frequency": 13,
+      "sentiment": 0.04768925304129384
+    },
+    {
+      "id": "targeting",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "midler",
+      "frequency": 8,
+      "sentiment": -0.06733864087301587
+    },
+    {
+      "id": "years",
+      "frequency": 18,
+      "sentiment": 0.03933949375192842
+    },
+    {
+      "id": "furious",
+      "frequency": 11,
+      "sentiment": -0.0517359270532708
+    },
+    {
+      "id": "know",
+      "frequency": 21,
+      "sentiment": 0.04063607201047009
+    },
+    {
+      "id": "iran",
+      "frequency": 24,
+      "sentiment": 0.016757853146149203
+    },
+    {
+      "id": "ever",
+      "frequency": 20,
+      "sentiment": 0.0302245467930198
+    },
+    {
+      "id": "biden",
+      "frequency": 8,
+      "sentiment": -0.06730892361111111
+    },
+    {
+      "id": "spying",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "uk",
+      "frequency": 28,
+      "sentiment": -7.777434756601421e-07
+    },
+    {
+      "id": "authority",
+      "frequency": 9,
+      "sentiment": -0.05216361000881834
+    },
+    {
+      "id": "interfere",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "president",
+      "frequency": 34,
+      "sentiment": 0.0001063096687269908
+    },
+    {
+      "id": "charliekirk11",
+      "frequency": 9,
+      "sentiment": -0.09994981398809524
+    },
+    {
+      "id": "realdonaldtrump",
+      "frequency": 82,
+      "sentiment": 0.005902742797330942
+    },
+    {
+      "id": "support",
+      "frequency": 15,
+      "sentiment": 0.02981764253658706
+    },
+    {
+      "id": "senators",
+      "frequency": 24,
+      "sentiment": -0.030508383394126648
+    },
+    {
+      "id": "trump",
+      "frequency": 137,
+      "sentiment": -2.4808065698861997e-05
+    },
+    {
+      "id": "chuck",
+      "frequency": 8,
+      "sentiment": 0.04959885912698413
+    },
+    {
+      "id": "didnt",
+      "frequency": 13,
+      "sentiment": -0.06379204040326956
+    },
+    {
+      "id": "calling",
+      "frequency": 6,
+      "sentiment": -0.017221249999999997
+    },
+    {
+      "id": "saudi",
+      "frequency": 159,
+      "sentiment": -0.000810192334277966
+    },
+    {
+      "id": "politico",
+      "frequency": 10,
+      "sentiment": 0.0036103056657848325
+    },
+    {
+      "id": "schumer",
+      "frequency": 9,
+      "sentiment": 0.04547056988536155
+    },
+    {
+      "id": "palmerreport",
+      "frequency": 9,
+      "sentiment": -0.05844864803791886
+    },
+    {
+      "id": "dday",
+      "frequency": 21,
+      "sentiment": 0.01559289207808641
+    },
+    {
+      "id": "evidence",
+      "frequency": 14,
+      "sentiment": 0.04435240079283178
+    },
+    {
+      "id": "american",
+      "frequency": 34,
+      "sentiment": 1.686309408094627e-05
+    },
+    {
+      "id": "bette",
+      "frequency": 9,
+      "sentiment": -0.05848190917107584
+    },
+    {
+      "id": "era",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "probably",
+      "frequency": 8,
+      "sentiment": 2.2745535714285717e-05
+    },
+    {
+      "id": "gopchairwoman",
+      "frequency": 18,
+      "sentiment": 0.03381569907261048
+    },
+    {
+      "id": "amp",
+      "frequency": 61,
+      "sentiment": 0.010807770535402451
+    },
+    {
+      "id": "secret",
+      "frequency": 8,
+      "sentiment": -8.330853174603174e-06
+    },
+    {
+      "id": "fortune",
+      "frequency": 9,
+      "sentiment": 2.0006613756613753e-07
+    },
+    {
+      "id": "obama",
+      "frequency": 37,
+      "sentiment": 0.0030541994808696584
+    },
+    {
+      "id": "saudis",
+      "frequency": 21,
+      "sentiment": -0.018669421980675564
+    },
+    {
+      "id": "group",
+      "frequency": 21,
+      "sentiment": -0.035107938274031844
+    },
+    {
+      "id": "irs",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "cnn",
+      "frequency": 9,
+      "sentiment": -0.05844302910052909
+    },
+    {
+      "id": "anniversary",
+      "frequency": 22,
+      "sentiment": 0.02732895394714261
+    },
+    {
+      "id": "bipartisan",
+      "frequency": 21,
+      "sentiment": -0.035107938274031844
+    }
+  ],
+  "edges": [
+    {
+      "source": "russia",
+      "target": "russia",
+      "co-occurance": 13
+    },
+    {
+      "source": "russia",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "scandals",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "benghazi",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "fast",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "campaign",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "allowing",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "russia",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "trump",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "wants",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "emergency",
+      "co-occurance": 10
+    },
+    {
+      "source": "emergency",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "bypass",
+      "co-occurance": 9
+    },
+    {
+      "source": "emergency",
+      "target": "congress",
+      "co-occurance": 9
+    },
+    {
+      "source": "emergency",
+      "target": "arms",
+      "co-occurance": 9
+    },
+    {
+      "source": "emergency",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "arabia",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "emergency",
+      "target": "senators",
+      "co-occurance": 8
+    },
+    {
+      "source": "fast",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "scandals",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "benghazi",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "fast",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "campaign",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "allowing",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "fast",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "congress",
+      "co-occurance": 25
+    },
+    {
+      "source": "congress",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "trump",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "wants",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "bypass",
+      "co-occurance": 9
+    },
+    {
+      "source": "congress",
+      "target": "arms",
+      "co-occurance": 9
+    },
+    {
+      "source": "congress",
+      "target": "saudi",
+      "co-occurance": 15
+    },
+    {
+      "source": "congress",
+      "target": "arabia",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "senators",
+      "co-occurance": 9
+    },
+    {
+      "source": "congress",
+      "target": "amp",
+      "co-occurance": 6
+    },
+    {
+      "source": "congress",
+      "target": "president",
+      "co-occurance": 7
+    },
+    {
+      "source": "congress",
+      "target": "american",
+      "co-occurance": 7
+    },
+    {
+      "source": "celebrating",
+      "target": "according",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "gopchairwoman",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "dday",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "celebrating",
+      "co-occurance": 15
+    },
+    {
+      "source": "celebrating",
+      "target": "donald",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "trump",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "ever",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "evidence",
+      "co-occurance": 13
+    },
+    {
+      "source": "celebrating",
+      "target": "gtconway3d",
+      "co-occurance": 10
+    },
+    {
+      "source": "benghazi",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "scandals",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "benghazi",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "campaign",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "allowing",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "benghazi",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "end",
+      "target": "trump",
+      "co-occurance": 5
+    },
+    {
+      "source": "end",
+      "target": "end",
+      "co-occurance": 6
+    },
+    {
+      "source": "end",
+      "target": "saudis",
+      "co-occurance": 5
+    },
+    {
+      "source": "said",
+      "target": "said",
+      "co-occurance": 16
+    },
+    {
+      "source": "said",
+      "target": "donald",
+      "co-occurance": 7
+    },
+    {
+      "source": "said",
+      "target": "trump",
+      "co-occurance": 6
+    },
+    {
+      "source": "administration",
+      "target": "administration",
+      "co-occurance": 10
+    },
+    {
+      "source": "administration",
+      "target": "trump",
+      "co-occurance": 8
+    },
+    {
+      "source": "administration",
+      "target": "secret",
+      "co-occurance": 7
+    },
+    {
+      "source": "administration",
+      "target": "probably",
+      "co-occurance": 7
+    },
+    {
+      "source": "administration",
+      "target": "fortune",
+      "co-occurance": 7
+    },
+    {
+      "source": "attacked",
+      "target": "attacked",
+      "co-occurance": 8
+    },
+    {
+      "source": "attacked",
+      "target": "palmerreport",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "donald",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "trump",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "bette",
+      "co-occurance": 7
+    },
+    {
+      "source": "attacked",
+      "target": "midler",
+      "co-occurance": 7
+    },
+    {
+      "source": "attacked",
+      "target": "chuck",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "schumer",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "biden",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "bill",
+      "co-occurance": 6
+    },
+    {
+      "source": "arabia",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "trump",
+      "co-occurance": 17
+    },
+    {
+      "source": "arabia",
+      "target": "wants",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "bypass",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "arms",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "saudi",
+      "co-occurance": 61
+    },
+    {
+      "source": "arabia",
+      "target": "arabia",
+      "co-occurance": 61
+    },
+    {
+      "source": "arabia",
+      "target": "bipartisan",
+      "co-occurance": 9
+    },
+    {
+      "source": "arabia",
+      "target": "group",
+      "co-occurance": 9
+    },
+    {
+      "source": "arabia",
+      "target": "senators",
+      "co-occurance": 9
+    },
+    {
+      "source": "arabia",
+      "target": "realdonaldtrump",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "american",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "support",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "trump",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "wants",
+      "co-occurance": 9
+    },
+    {
+      "source": "wants",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "bypass",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "arms",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "wants",
+      "target": "senators",
+      "co-occurance": 8
+    },
+    {
+      "source": "bill",
+      "target": "trump",
+      "co-occurance": 7
+    },
+    {
+      "source": "bill",
+      "target": "bill",
+      "co-occurance": 9
+    },
+    {
+      "source": "bill",
+      "target": "palmerreport",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "donald",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "bette",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "midler",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "chuck",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "schumer",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "bill",
+      "target": "biden",
+      "co-occurance": 6
+    },
+    {
+      "source": "campaign",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "scandals",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "campaign",
+      "co-occurance": 10
+    },
+    {
+      "source": "campaign",
+      "target": "allowing",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "campaign",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "trump",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "bypass",
+      "co-occurance": 9
+    },
+    {
+      "source": "bypass",
+      "target": "arms",
+      "co-occurance": 9
+    },
+    {
+      "source": "bypass",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "bypass",
+      "target": "senators",
+      "co-occurance": 8
+    },
+    {
+      "source": "according",
+      "target": "according",
+      "co-occurance": 18
+    },
+    {
+      "source": "according",
+      "target": "gopchairwoman",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "dday",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "donald",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "trump",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "ever",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "evidence",
+      "co-occurance": 13
+    },
+    {
+      "source": "according",
+      "target": "gtconway3d",
+      "co-occurance": 10
+    },
+    {
+      "source": "arms",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "arms",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "arms",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "arms",
+      "target": "arms",
+      "co-occurance": 10
+    },
+    {
+      "source": "arms",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "arms",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "arms",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "arms",
+      "target": "senators",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "scandals",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "allowing",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "allowing",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "scandals",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "scandals",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "scandals",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "deal",
+      "target": "deal",
+      "co-occurance": 7
+    },
+    {
+      "source": "deal",
+      "target": "iran",
+      "co-occurance": 5
+    },
+    {
+      "source": "deal",
+      "target": "trump",
+      "co-occurance": 5
+    },
+    {
+      "source": "donald",
+      "target": "know",
+      "co-occurance": 6
+    },
+    {
+      "source": "donald",
+      "target": "gopchairwoman",
+      "co-occurance": 15
+    },
+    {
+      "source": "donald",
+      "target": "dday",
+      "co-occurance": 15
+    },
+    {
+      "source": "donald",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "donald",
+      "target": "donald",
+      "co-occurance": 65
+    },
+    {
+      "source": "donald",
+      "target": "trump",
+      "co-occurance": 43
+    },
+    {
+      "source": "donald",
+      "target": "ever",
+      "co-occurance": 13
+    },
+    {
+      "source": "donald",
+      "target": "evidence",
+      "co-occurance": 13
+    },
+    {
+      "source": "donald",
+      "target": "gtconway3d",
+      "co-occurance": 11
+    },
+    {
+      "source": "donald",
+      "target": "palmerreport",
+      "co-occurance": 9
+    },
+    {
+      "source": "donald",
+      "target": "president",
+      "co-occurance": 8
+    },
+    {
+      "source": "donald",
+      "target": "bette",
+      "co-occurance": 7
+    },
+    {
+      "source": "donald",
+      "target": "midler",
+      "co-occurance": 7
+    },
+    {
+      "source": "donald",
+      "target": "chuck",
+      "co-occurance": 7
+    },
+    {
+      "source": "donald",
+      "target": "schumer",
+      "co-occurance": 7
+    },
+    {
+      "source": "donald",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "donald",
+      "target": "biden",
+      "co-occurance": 6
+    },
+    {
+      "source": "gtconway3d",
+      "target": "gtconway3d",
+      "co-occurance": 13
+    },
+    {
+      "source": "gtconway3d",
+      "target": "gopchairwoman",
+      "co-occurance": 13
+    },
+    {
+      "source": "gtconway3d",
+      "target": "dday",
+      "co-occurance": 11
+    },
+    {
+      "source": "gtconway3d",
+      "target": "anniversary",
+      "co-occurance": 10
+    },
+    {
+      "source": "gtconway3d",
+      "target": "trump",
+      "co-occurance": 11
+    },
+    {
+      "source": "gtconway3d",
+      "target": "ever",
+      "co-occurance": 10
+    },
+    {
+      "source": "gtconway3d",
+      "target": "evidence",
+      "co-occurance": 10
+    },
+    {
+      "source": "targeting",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "targeting",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "furious",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "targeting",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "midler",
+      "target": "palmerreport",
+      "co-occurance": 7
+    },
+    {
+      "source": "midler",
+      "target": "trump",
+      "co-occurance": 6
+    },
+    {
+      "source": "midler",
+      "target": "bette",
+      "co-occurance": 8
+    },
+    {
+      "source": "midler",
+      "target": "midler",
+      "co-occurance": 8
+    },
+    {
+      "source": "midler",
+      "target": "chuck",
+      "co-occurance": 7
+    },
+    {
+      "source": "midler",
+      "target": "schumer",
+      "co-occurance": 7
+    },
+    {
+      "source": "midler",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "midler",
+      "target": "biden",
+      "co-occurance": 6
+    },
+    {
+      "source": "years",
+      "target": "amp",
+      "co-occurance": 10
+    },
+    {
+      "source": "years",
+      "target": "years",
+      "co-occurance": 18
+    },
+    {
+      "source": "years",
+      "target": "trump",
+      "co-occurance": 5
+    },
+    {
+      "source": "furious",
+      "target": "obama",
+      "co-occurance": 10
+    },
+    {
+      "source": "furious",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "furious",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "furious",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "furious",
+      "target": "furious",
+      "co-occurance": 11
+    },
+    {
+      "source": "furious",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "furious",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "furious",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "furious",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "know",
+      "target": "know",
+      "co-occurance": 15
+    },
+    {
+      "source": "know",
+      "target": "trump",
+      "co-occurance": 5
+    },
+    {
+      "source": "iran",
+      "target": "iran",
+      "co-occurance": 20
+    },
+    {
+      "source": "iran",
+      "target": "obama",
+      "co-occurance": 6
+    },
+    {
+      "source": "iran",
+      "target": "trump",
+      "co-occurance": 5
+    },
+    {
+      "source": "ever",
+      "target": "gopchairwoman",
+      "co-occurance": 13
+    },
+    {
+      "source": "ever",
+      "target": "dday",
+      "co-occurance": 13
+    },
+    {
+      "source": "ever",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "ever",
+      "target": "trump",
+      "co-occurance": 13
+    },
+    {
+      "source": "ever",
+      "target": "ever",
+      "co-occurance": 20
+    },
+    {
+      "source": "ever",
+      "target": "evidence",
+      "co-occurance": 13
+    },
+    {
+      "source": "ever",
+      "target": "saudi",
+      "co-occurance": 7
+    },
+    {
+      "source": "ever",
+      "target": "uk",
+      "co-occurance": 7
+    },
+    {
+      "source": "biden",
+      "target": "biden",
+      "co-occurance": 8
+    },
+    {
+      "source": "biden",
+      "target": "palmerreport",
+      "co-occurance": 6
+    },
+    {
+      "source": "biden",
+      "target": "trump",
+      "co-occurance": 6
+    },
+    {
+      "source": "biden",
+      "target": "bette",
+      "co-occurance": 6
+    },
+    {
+      "source": "biden",
+      "target": "chuck",
+      "co-occurance": 6
+    },
+    {
+      "source": "biden",
+      "target": "schumer",
+      "co-occurance": 6
+    },
+    {
+      "source": "biden",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "spying",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "spying",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "spying",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "uk",
+      "target": "uk",
+      "co-occurance": 26
+    },
+    {
+      "source": "uk",
+      "target": "trump",
+      "co-occurance": 7
+    },
+    {
+      "source": "uk",
+      "target": "realdonaldtrump",
+      "co-occurance": 6
+    },
+    {
+      "source": "uk",
+      "target": "saudi",
+      "co-occurance": 7
+    },
+    {
+      "source": "authority",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "authority",
+      "target": "trump",
+      "co-occurance": 8
+    },
+    {
+      "source": "authority",
+      "target": "authority",
+      "co-occurance": 9
+    },
+    {
+      "source": "authority",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "authority",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "authority",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "authority",
+      "target": "senators",
+      "co-occurance": 8
+    },
+    {
+      "source": "interfere",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "interfere",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "interfere",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "interfere",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "interfere",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "interfere",
+      "target": "interfere",
+      "co-occurance": 9
+    },
+    {
+      "source": "interfere",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "president",
+      "target": "obama",
+      "co-occurance": 6
+    },
+    {
+      "source": "president",
+      "target": "president",
+      "co-occurance": 33
+    },
+    {
+      "source": "president",
+      "target": "trump",
+      "co-occurance": 10
+    },
+    {
+      "source": "president",
+      "target": "american",
+      "co-occurance": 8
+    },
+    {
+      "source": "president",
+      "target": "saudi",
+      "co-occurance": 7
+    },
+    {
+      "source": "charliekirk11",
+      "target": "charliekirk11",
+      "co-occurance": 9
+    },
+    {
+      "source": "charliekirk11",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "charliekirk11",
+      "target": "obama",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "era",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "irs",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "amp",
+      "co-occurance": 8
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "realdonaldtrump",
+      "co-occurance": 82
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "support",
+      "co-occurance": 9
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "trump",
+      "co-occurance": 12
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "american",
+      "co-occurance": 9
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "support",
+      "target": "support",
+      "co-occurance": 15
+    },
+    {
+      "source": "support",
+      "target": "trump",
+      "co-occurance": 9
+    },
+    {
+      "source": "support",
+      "target": "american",
+      "co-occurance": 8
+    },
+    {
+      "source": "support",
+      "target": "saudi",
+      "co-occurance": 8
+    },
+    {
+      "source": "senators",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "senators",
+      "target": "trump",
+      "co-occurance": 22
+    },
+    {
+      "source": "senators",
+      "target": "saudi",
+      "co-occurance": 9
+    },
+    {
+      "source": "senators",
+      "target": "bipartisan",
+      "co-occurance": 21
+    },
+    {
+      "source": "senators",
+      "target": "group",
+      "co-occurance": 21
+    },
+    {
+      "source": "senators",
+      "target": "senators",
+      "co-occurance": 23
+    },
+    {
+      "source": "trump",
+      "target": "gopchairwoman",
+      "co-occurance": 15
+    },
+    {
+      "source": "trump",
+      "target": "dday",
+      "co-occurance": 17
+    },
+    {
+      "source": "trump",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "trump",
+      "target": "trump",
+      "co-occurance": 119
+    },
+    {
+      "source": "trump",
+      "target": "evidence",
+      "co-occurance": 13
+    },
+    {
+      "source": "trump",
+      "target": "didnt",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "trump",
+      "target": "saudi",
+      "co-occurance": 20
+    },
+    {
+      "source": "trump",
+      "target": "bipartisan",
+      "co-occurance": 21
+    },
+    {
+      "source": "trump",
+      "target": "group",
+      "co-occurance": 21
+    },
+    {
+      "source": "trump",
+      "target": "probably",
+      "co-occurance": 8
+    },
+    {
+      "source": "trump",
+      "target": "obama",
+      "co-occurance": 14
+    },
+    {
+      "source": "trump",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "trump",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "trump",
+      "target": "amp",
+      "co-occurance": 12
+    },
+    {
+      "source": "trump",
+      "target": "secret",
+      "co-occurance": 8
+    },
+    {
+      "source": "trump",
+      "target": "schumer",
+      "co-occurance": 7
+    },
+    {
+      "source": "trump",
+      "target": "calling",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "american",
+      "co-occurance": 12
+    },
+    {
+      "source": "trump",
+      "target": "saudis",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "fortune",
+      "co-occurance": 7
+    },
+    {
+      "source": "trump",
+      "target": "cnn",
+      "co-occurance": 7
+    },
+    {
+      "source": "trump",
+      "target": "palmerreport",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "bette",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "chuck",
+      "co-occurance": 6
+    },
+    {
+      "source": "chuck",
+      "target": "palmerreport",
+      "co-occurance": 7
+    },
+    {
+      "source": "chuck",
+      "target": "bette",
+      "co-occurance": 7
+    },
+    {
+      "source": "chuck",
+      "target": "chuck",
+      "co-occurance": 8
+    },
+    {
+      "source": "chuck",
+      "target": "schumer",
+      "co-occurance": 8
+    },
+    {
+      "source": "chuck",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "didnt",
+      "target": "didnt",
+      "co-occurance": 11
+    },
+    {
+      "source": "calling",
+      "target": "calling",
+      "co-occurance": 6
+    },
+    {
+      "source": "saudi",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "saudi",
+      "target": "saudi",
+      "co-occurance": 152
+    },
+    {
+      "source": "saudi",
+      "target": "bipartisan",
+      "co-occurance": 9
+    },
+    {
+      "source": "saudi",
+      "target": "group",
+      "co-occurance": 9
+    },
+    {
+      "source": "saudi",
+      "target": "saudis",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudi",
+      "target": "american",
+      "co-occurance": 15
+    },
+    {
+      "source": "politico",
+      "target": "politico",
+      "co-occurance": 10
+    },
+    {
+      "source": "politico",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "politico",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "schumer",
+      "target": "schumer",
+      "co-occurance": 9
+    },
+    {
+      "source": "schumer",
+      "target": "palmerreport",
+      "co-occurance": 7
+    },
+    {
+      "source": "schumer",
+      "target": "bette",
+      "co-occurance": 7
+    },
+    {
+      "source": "schumer",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "palmerreport",
+      "target": "palmerreport",
+      "co-occurance": 9
+    },
+    {
+      "source": "palmerreport",
+      "target": "bette",
+      "co-occurance": 7
+    },
+    {
+      "source": "palmerreport",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "dday",
+      "target": "gopchairwoman",
+      "co-occurance": 14
+    },
+    {
+      "source": "dday",
+      "target": "dday",
+      "co-occurance": 20
+    },
+    {
+      "source": "dday",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "dday",
+      "target": "evidence",
+      "co-occurance": 13
+    },
+    {
+      "source": "evidence",
+      "target": "gopchairwoman",
+      "co-occurance": 13
+    },
+    {
+      "source": "evidence",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "evidence",
+      "target": "evidence",
+      "co-occurance": 14
+    },
+    {
+      "source": "american",
+      "target": "american",
+      "co-occurance": 33
+    },
+    {
+      "source": "bette",
+      "target": "bette",
+      "co-occurance": 8
+    },
+    {
+      "source": "bette",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "era",
+      "target": "obama",
+      "co-occurance": 9
+    },
+    {
+      "source": "era",
+      "target": "era",
+      "co-occurance": 9
+    },
+    {
+      "source": "era",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "era",
+      "target": "amp",
+      "co-occurance": 9
+    },
+    {
+      "source": "probably",
+      "target": "probably",
+      "co-occurance": 8
+    },
+    {
+      "source": "probably",
+      "target": "secret",
+      "co-occurance": 7
+    },
+    {
+      "source": "probably",
+      "target": "fortune",
+      "co-occurance": 7
+    },
+    {
+      "source": "gopchairwoman",
+      "target": "gopchairwoman",
+      "co-occurance": 18
+    },
+    {
+      "source": "gopchairwoman",
+      "target": "anniversary",
+      "co-occurance": 13
+    },
+    {
+      "source": "amp",
+      "target": "amp",
+      "co-occurance": 49
+    },
+    {
+      "source": "amp",
+      "target": "obama",
+      "co-occurance": 11
+    },
+    {
+      "source": "amp",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "secret",
+      "target": "secret",
+      "co-occurance": 8
+    },
+    {
+      "source": "secret",
+      "target": "fortune",
+      "co-occurance": 7
+    },
+    {
+      "source": "fortune",
+      "target": "fortune",
+      "co-occurance": 8
+    },
+    {
+      "source": "obama",
+      "target": "obama",
+      "co-occurance": 34
+    },
+    {
+      "source": "obama",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "saudis",
+      "target": "saudis",
+      "co-occurance": 21
+    },
+    {
+      "source": "group",
+      "target": "bipartisan",
+      "co-occurance": 21
+    },
+    {
+      "source": "group",
+      "target": "group",
+      "co-occurance": 21
+    },
+    {
+      "source": "irs",
+      "target": "irs",
+      "co-occurance": 9
+    },
+    {
+      "source": "cnn",
+      "target": "cnn",
+      "co-occurance": 9
+    },
+    {
+      "source": "anniversary",
+      "target": "anniversary",
+      "co-occurance": 22
+    },
+    {
+      "source": "bipartisan",
+      "target": "bipartisan",
+      "co-occurance": 21
+    }
+  ]
+}

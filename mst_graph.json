@@ -1,0 +1,2341 @@
+{
+  "nodes": [
+    {
+      "id": "people",
+      "frequency": 53,
+      "sentiment": -9.077158266276578e-08
+    },
+    {
+      "id": "united",
+      "frequency": 16,
+      "sentiment": 0.060785981570631704
+    },
+    {
+      "id": "top",
+      "frequency": 24,
+      "sentiment": 0.02764464175859516
+    },
+    {
+      "id": "countries",
+      "frequency": 24,
+      "sentiment": -0.01657202490801533
+    },
+    {
+      "id": "world",
+      "frequency": 55,
+      "sentiment": -0.0003268074565277357
+    },
+    {
+      "id": "afghanistan",
+      "frequency": 29,
+      "sentiment": -0.013603760330928385
+    },
+    {
+      "id": "syria",
+      "frequency": 28,
+      "sentiment": -0.014109049597111832
+    },
+    {
+      "id": "somalia",
+      "frequency": 27,
+      "sentiment": -0.014653388719351844
+    },
+    {
+      "id": "arabia",
+      "frequency": 61,
+      "sentiment": 0.0001601287621094027
+    },
+    {
+      "id": "yemen",
+      "frequency": 6,
+      "sentiment": 0.13002166666666667
+    },
+    {
+      "id": "states",
+      "frequency": 27,
+      "sentiment": -0.004274370370368961
+    },
+    {
+      "id": "says",
+      "frequency": 10,
+      "sentiment": -0.037033250082671956
+    },
+    {
+      "id": "saudi",
+      "frequency": 159,
+      "sentiment": -0.000810192334277966
+    },
+    {
+      "id": "saudis",
+      "frequency": 21,
+      "sentiment": -0.018669421980675564
+    },
+    {
+      "id": "another",
+      "frequency": 7,
+      "sentiment": -0.04224603174603175
+    },
+    {
+      "id": "say",
+      "frequency": 122,
+      "sentiment": 0.0007438528896079582
+    },
+    {
+      "id": "one",
+      "frequency": 14,
+      "sentiment": -0.052520972422360354
+    },
+    {
+      "id": "anything",
+      "frequency": 17,
+      "sentiment": 5.6662654926786956e-12
+    },
+    {
+      "id": "trump",
+      "frequency": 137,
+      "sentiment": -2.4808065698861997e-05
+    },
+    {
+      "id": "end",
+      "frequency": 6,
+      "sentiment": -0.15046694444444444
+    },
+    {
+      "id": "know",
+      "frequency": 21,
+      "sentiment": 0.04063607201047009
+    },
+    {
+      "id": "didnt",
+      "frequency": 13,
+      "sentiment": -0.06379204040326956
+    },
+    {
+      "id": "iran",
+      "frequency": 24,
+      "sentiment": 0.016757853146149203
+    },
+    {
+      "id": "years",
+      "frequency": 18,
+      "sentiment": 0.03933949375192842
+    },
+    {
+      "id": "calling",
+      "frequency": 6,
+      "sentiment": -0.017221249999999997
+    },
+    {
+      "id": "deal",
+      "frequency": 7,
+      "sentiment": 0.057418392857142855
+    },
+    {
+      "id": "think",
+      "frequency": 18,
+      "sentiment": 0.04882627642044635
+    },
+    {
+      "id": "foreign",
+      "frequency": 6,
+      "sentiment": -0.09213222222222223
+    },
+    {
+      "id": "policy",
+      "frequency": 6,
+      "sentiment": 0.046967777777777775
+    },
+    {
+      "id": "see",
+      "frequency": 12,
+      "sentiment": 0.0016561672307566404
+    },
+    {
+      "id": "obama",
+      "frequency": 37,
+      "sentiment": 0.0030541994808696584
+    },
+    {
+      "id": "us",
+      "frequency": 97,
+      "sentiment": -0.005649577943417236
+    },
+    {
+      "id": "obamas",
+      "frequency": 8,
+      "sentiment": 0.017099712301587303
+    },
+    {
+      "id": "president",
+      "frequency": 34,
+      "sentiment": 0.0001063096687269908
+    },
+    {
+      "id": "security",
+      "frequency": 26,
+      "sentiment": 0.02684987495413743
+    },
+    {
+      "id": "must",
+      "frequency": 12,
+      "sentiment": -0.03338303466919526
+    },
+    {
+      "id": "mitch",
+      "frequency": 21,
+      "sentiment": -0.017250790808036837
+    },
+    {
+      "id": "mcconnell",
+      "frequency": 16,
+      "sentiment": -0.024080000015913247
+    },
+    {
+      "id": "want",
+      "frequency": 18,
+      "sentiment": 0.005103055959165551
+    },
+    {
+      "id": "good",
+      "frequency": 9,
+      "sentiment": 0.07833392195767196
+    },
+    {
+      "id": "things",
+      "frequency": 8,
+      "sentiment": 0.026060654761904764
+    },
+    {
+      "id": "done",
+      "frequency": 7,
+      "sentiment": 0.07610777777777777
+    },
+    {
+      "id": "football",
+      "frequency": 9,
+      "sentiment": -0.016312142581569666
+    },
+    {
+      "id": "rules",
+      "frequency": 7,
+      "sentiment": -0.022331230158730158
+    },
+    {
+      "id": "said",
+      "frequency": 17,
+      "sentiment": -0.012669038836754314
+    },
+    {
+      "id": "palmerreport",
+      "frequency": 9,
+      "sentiment": -0.05844864803791886
+    },
+    {
+      "id": "attacked",
+      "frequency": 8,
+      "sentiment": -0.06730143849206349
+    },
+    {
+      "id": "bette",
+      "frequency": 9,
+      "sentiment": -0.05848190917107584
+    },
+    {
+      "id": "midler",
+      "frequency": 8,
+      "sentiment": -0.06733864087301587
+    },
+    {
+      "id": "chuck",
+      "frequency": 8,
+      "sentiment": 0.04959885912698413
+    },
+    {
+      "id": "biden",
+      "frequency": 8,
+      "sentiment": -0.06730892361111111
+    },
+    {
+      "id": "donald",
+      "frequency": 65,
+      "sentiment": -0.0071704906107776835
+    },
+    {
+      "id": "day",
+      "frequency": 24,
+      "sentiment": 0.01680992068790836
+    },
+    {
+      "id": "judges",
+      "frequency": 6,
+      "sentiment": -0.06631597222222223
+    },
+    {
+      "id": "gets",
+      "frequency": 21,
+      "sentiment": -0.02692683048083312
+    },
+    {
+      "id": "amp",
+      "frequency": 61,
+      "sentiment": 0.010807770535402451
+    },
+    {
+      "id": "gop",
+      "frequency": 14,
+      "sentiment": -0.02271730986516744
+    },
+    {
+      "id": "collins",
+      "frequency": 7,
+      "sentiment": -0.05513825396825396
+    },
+    {
+      "id": "claims",
+      "frequency": 21,
+      "sentiment": -0.015965893394473234
+    },
+    {
+      "id": "trumps",
+      "frequency": 30,
+      "sentiment": 2.1792562483912115e-11
+    },
+    {
+      "id": "made",
+      "frequency": 11,
+      "sentiment": -0.05411917000360751
+    },
+    {
+      "id": "immigration",
+      "frequency": 23,
+      "sentiment": 0.016865938890907674
+    },
+    {
+      "id": "house",
+      "frequency": 16,
+      "sentiment": 0.023292445026725117
+    },
+    {
+      "id": "enough",
+      "frequency": 6,
+      "sentiment": -0.10971847222222224
+    },
+    {
+      "id": "reform",
+      "frequency": 5,
+      "sentiment": -0.20499083333333337
+    },
+    {
+      "id": "mexico",
+      "frequency": 90,
+      "sentiment": 0.003820712445492895
+    },
+    {
+      "id": "border",
+      "frequency": 18,
+      "sentiment": 0.034955260211569514
+    },
+    {
+      "id": "may",
+      "frequency": 15,
+      "sentiment": 0.040832729741933575
+    },
+    {
+      "id": "list",
+      "frequency": 8,
+      "sentiment": -0.07801942212301588
+    },
+    {
+      "id": "arabian",
+      "frequency": 7,
+      "sentiment": 0.013456666666666667
+    },
+    {
+      "id": "government",
+      "frequency": 10,
+      "sentiment": -0.04399690542328043
+    },
+    {
+      "id": "al",
+      "frequency": 21,
+      "sentiment": -0.0064169353648737245
+    },
+    {
+      "id": "hilal",
+      "frequency": 7,
+      "sentiment": -0.022380376984126985
+    },
+    {
+      "id": "club",
+      "frequency": 7,
+      "sentiment": -0.022380376984126985
+    },
+    {
+      "id": "cnn",
+      "frequency": 9,
+      "sentiment": -0.05844302910052909
+    },
+    {
+      "id": "bill",
+      "frequency": 9,
+      "sentiment": -0.05845242256393298
+    },
+    {
+      "id": "schumer",
+      "frequency": 9,
+      "sentiment": 0.04547056988536155
+    },
+    {
+      "id": "congress",
+      "frequency": 25,
+      "sentiment": -0.031547165246391076
+    },
+    {
+      "id": "white",
+      "frequency": 40,
+      "sentiment": 0.010058420734199968
+    },
+    {
+      "id": "compromised",
+      "frequency": 9,
+      "sentiment": 0.05369861000881834
+    },
+    {
+      "id": "american",
+      "frequency": 34,
+      "sentiment": 1.686309408094627e-05
+    },
+    {
+      "id": "across",
+      "frequency": 9,
+      "sentiment": -5.071097883597884e-06
+    },
+    {
+      "id": "uk",
+      "frequency": 28,
+      "sentiment": -7.777434756601421e-07
+    },
+    {
+      "id": "realdonaldtrump",
+      "frequency": 82,
+      "sentiment": 0.005902742797330942
+    },
+    {
+      "id": "cc",
+      "frequency": 5,
+      "sentiment": -0.1341025
+    },
+    {
+      "id": "hearing",
+      "frequency": 85,
+      "sentiment": 0.0010715823146074375
+    },
+    {
+      "id": "would",
+      "frequency": 21,
+      "sentiment": 0.007340717951069565
+    },
+    {
+      "id": "quite",
+      "frequency": 8,
+      "sentiment": -0.0021471428571428574
+    },
+    {
+      "id": "big",
+      "frequency": 20,
+      "sentiment": 1.1000376251100077e-11
+    },
+    {
+      "id": "ive",
+      "frequency": 17,
+      "sentiment": -0.03403695826280025
+    },
+    {
+      "id": "ever",
+      "frequency": 20,
+      "sentiment": 0.0302245467930198
+    },
+    {
+      "id": "eid",
+      "frequency": 11,
+      "sentiment": 0.005398208603896103
+    },
+    {
+      "id": "family",
+      "frequency": 11,
+      "sentiment": 0.05327970545234086
+    },
+    {
+      "id": "driving",
+      "frequency": 9,
+      "sentiment": 0.06709808807319223
+    },
+    {
+      "id": "fortune",
+      "frequency": 9,
+      "sentiment": 2.0006613756613753e-07
+    },
+    {
+      "id": "144k",
+      "frequency": 7,
+      "sentiment": 0.1159652380952381
+    },
+    {
+      "id": "apprehensions",
+      "frequency": 7,
+      "sentiment": 0.1159652380952381
+    },
+    {
+      "id": "increase",
+      "frequency": 7,
+      "sentiment": 0.1159652380952381
+    },
+    {
+      "id": "april",
+      "frequency": 7,
+      "sentiment": 0.1159652380952381
+    },
+    {
+      "id": "highest",
+      "frequency": 8,
+      "sentiment": 0.07563136904761905
+    },
+    {
+      "id": "figure",
+      "frequency": 7,
+      "sentiment": 0.1159652380952381
+    },
+    {
+      "id": "clearly",
+      "frequency": 7,
+      "sentiment": 0.1159652380952381
+    },
+    {
+      "id": "need",
+      "frequency": 10,
+      "sentiment": 0.07452785251322751
+    },
+    {
+      "id": "washington",
+      "frequency": 46,
+      "sentiment": 3.659812532144955e-29
+    },
+    {
+      "id": "start",
+      "frequency": 28,
+      "sentiment": 0.01763928571434176
+    },
+    {
+      "id": "johncornyn",
+      "frequency": 8,
+      "sentiment": 0.0526875
+    },
+    {
+      "id": "putting",
+      "frequency": 8,
+      "sentiment": 0.0595875
+    },
+    {
+      "id": "taking",
+      "frequency": 9,
+      "sentiment": -2.44157848324515e-06
+    },
+    {
+      "id": "accountability",
+      "frequency": 8,
+      "sentiment": -0.10395
+    },
+    {
+      "id": "tell",
+      "frequency": 12,
+      "sentiment": -0.025196558036131817
+    },
+    {
+      "id": "problem",
+      "frequency": 19,
+      "sentiment": -0.049384821551827704
+    },
+    {
+      "id": "cant",
+      "frequency": 18,
+      "sentiment": -2.882536262336707e-07
+    },
+    {
+      "id": "authoritarian",
+      "frequency": 19,
+      "sentiment": -0.03483134874467825
+    },
+    {
+      "id": "alone",
+      "frequency": 10,
+      "sentiment": -0.06447688486552028
+    },
+    {
+      "id": "street",
+      "frequency": 8,
+      "sentiment": -0.05240794146825398
+    },
+    {
+      "id": "secret",
+      "frequency": 8,
+      "sentiment": -8.330853174603174e-06
+    },
+    {
+      "id": "probably",
+      "frequency": 8,
+      "sentiment": 2.2745535714285717e-05
+    },
+    {
+      "id": "administration",
+      "frequency": 10,
+      "sentiment": -0.05422981883818342
+    },
+    {
+      "id": "dc",
+      "frequency": 7,
+      "sentiment": -0.1473150396825397
+    },
+    {
+      "id": "best",
+      "frequency": 10,
+      "sentiment": 0.020914647982804232
+    },
+    {
+      "id": "bills",
+      "frequency": 9,
+      "sentiment": -4.379960317460317e-06
+    },
+    {
+      "id": "selling",
+      "frequency": 10,
+      "sentiment": -0.040174150628306884
+    },
+    {
+      "id": "dont",
+      "frequency": 22,
+      "sentiment": -0.025718628165028457
+    },
+    {
+      "id": "national",
+      "frequency": 10,
+      "sentiment": 0.06427252788800705
+    },
+    {
+      "id": "politico",
+      "frequency": 10,
+      "sentiment": 0.0036103056657848325
+    },
+    {
+      "id": "wants",
+      "frequency": 9,
+      "sentiment": 0.04969194554673721
+    },
+    {
+      "id": "emergency",
+      "frequency": 11,
+      "sentiment": -0.042424295364357864
+    },
+    {
+      "id": "authority",
+      "frequency": 9,
+      "sentiment": -0.05216361000881834
+    },
+    {
+      "id": "bypass",
+      "frequency": 9,
+      "sentiment": -0.09429694334215168
+    },
+    {
+      "id": "arms",
+      "frequency": 10,
+      "sentiment": -0.009429694334215168
+    },
+    {
+      "id": "exclusive",
+      "frequency": 11,
+      "sentiment": 0.015338339972142057
+    },
+    {
+      "id": "via",
+      "frequency": 14,
+      "sentiment": 1.6950547523464192e-06
+    },
+    {
+      "id": "help",
+      "frequency": 10,
+      "sentiment": 0.04531066989087301
+    },
+    {
+      "id": "china",
+      "frequency": 16,
+      "sentiment": -0.00022525229864242565
+    },
+    {
+      "id": "support",
+      "frequency": 15,
+      "sentiment": 0.02981764253658706
+    },
+    {
+      "id": "released",
+      "frequency": 10,
+      "sentiment": 0.0
+    },
+    {
+      "id": "july",
+      "frequency": 11,
+      "sentiment": -1.7930345117845121e-06
+    },
+    {
+      "id": "arizona",
+      "frequency": 22,
+      "sentiment": -0.04081363636373114
+    },
+    {
+      "id": "kansas",
+      "frequency": 9,
+      "sentiment": 0.0
+    },
+    {
+      "id": "america",
+      "frequency": 13,
+      "sentiment": -0.010318992310865575
+    },
+    {
+      "id": "russian",
+      "frequency": 10,
+      "sentiment": -0.023429694334215167
+    },
+    {
+      "id": "charliekirk11",
+      "frequency": 9,
+      "sentiment": -0.09994981398809524
+    },
+    {
+      "id": "bad",
+      "frequency": 12,
+      "sentiment": -0.0497631969997595
+    },
+    {
+      "id": "got",
+      "frequency": 30,
+      "sentiment": 0.020583547210989483
+    },
+    {
+      "id": "army",
+      "frequency": 20,
+      "sentiment": -8.425978968348491e-05
+    },
+    {
+      "id": "indigenous",
+      "frequency": 9,
+      "sentiment": -0.06909507578262787
+    },
+    {
+      "id": "tickets",
+      "frequency": 11,
+      "sentiment": -0.016616473334535833
+    },
+    {
+      "id": "release",
+      "frequency": 10,
+      "sentiment": -0.006341806051587301
+    },
+    {
+      "id": "friend",
+      "frequency": 12,
+      "sentiment": 0.07671879944910413
+    },
+    {
+      "id": "chance",
+      "frequency": 12,
+      "sentiment": 0.045768112048059965
+    },
+    {
+      "id": "score",
+      "frequency": 9,
+      "sentiment": 0.046859717261904764
+    },
+    {
+      "id": "go",
+      "frequency": 9,
+      "sentiment": 0.040343451829806
+    },
+    {
+      "id": "bipartisan",
+      "frequency": 21,
+      "sentiment": -0.035107938274031844
+    },
+    {
+      "id": "group",
+      "frequency": 21,
+      "sentiment": -0.035107938274031844
+    },
+    {
+      "id": "news",
+      "frequency": 45,
+      "sentiment": 0.0025640305977236463
+    },
+    {
+      "id": "even",
+      "frequency": 12,
+      "sentiment": -0.049763172027191556
+    },
+    {
+      "id": "senators",
+      "frequency": 24,
+      "sentiment": -0.030508383394126648
+    },
+    {
+      "id": "ballistic",
+      "frequency": 36,
+      "sentiment": 0.00034467052276547196
+    },
+    {
+      "id": "missile",
+      "frequency": 35,
+      "sentiment": 0.01240813881955699
+    },
+    {
+      "id": "program",
+      "frequency": 35,
+      "sentiment": 0.01240813881955699
+    },
+    {
+      "id": "era",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "scandals",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "irs",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "targeting",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "benghazi",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "fast",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "furious",
+      "frequency": 11,
+      "sentiment": -0.0517359270532708
+    },
+    {
+      "id": "spying",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "campaign",
+      "frequency": 10,
+      "sentiment": 0.02818480241402116
+    },
+    {
+      "id": "allowing",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "russia",
+      "frequency": 13,
+      "sentiment": -0.06635294456874144
+    },
+    {
+      "id": "interfere",
+      "frequency": 9,
+      "sentiment": -0.09995197585978836
+    },
+    {
+      "id": "year",
+      "frequency": 12,
+      "sentiment": 0.0747833318696639
+    },
+    {
+      "id": "company",
+      "frequency": 10,
+      "sentiment": 0.06124
+    },
+    {
+      "id": "took",
+      "frequency": 14,
+      "sentiment": 0.02654285719597128
+    },
+    {
+      "id": "game",
+      "frequency": 39,
+      "sentiment": 1.9224507611595354e-29
+    },
+    {
+      "id": "thrones",
+      "frequency": 37,
+      "sentiment": 7.542107280668283e-29
+    },
+    {
+      "id": "tomorrow",
+      "frequency": 47,
+      "sentiment": 0.007394880371892753
+    },
+    {
+      "id": "wtf",
+      "frequency": 10,
+      "sentiment": -0.08462328273809525
+    },
+    {
+      "id": "anniversary",
+      "frequency": 22,
+      "sentiment": 0.02732895394714261
+    },
+    {
+      "id": "still",
+      "frequency": 14,
+      "sentiment": 0.010694224953126863
+    },
+    {
+      "id": "instead",
+      "frequency": 13,
+      "sentiment": 0.012857611366417792
+    },
+    {
+      "id": "senwarren",
+      "frequency": 11,
+      "sentiment": 1.8986992945326277e-08
+    },
+    {
+      "id": "unlike",
+      "frequency": 11,
+      "sentiment": 1.8986992945326277e-08
+    },
+    {
+      "id": "gtconway3d",
+      "frequency": 13,
+      "sentiment": 0.04768925304129384
+    },
+    {
+      "id": "qatar",
+      "frequency": 32,
+      "sentiment": -1.030193113943769e-05
+    },
+    {
+      "id": "according",
+      "frequency": 18,
+      "sentiment": 0.03381568829765553
+    },
+    {
+      "id": "celebrating",
+      "frequency": 15,
+      "sentiment": 0.04118128716185756
+    },
+    {
+      "id": "evidence",
+      "frequency": 14,
+      "sentiment": 0.04435240079283178
+    },
+    {
+      "id": "report",
+      "frequency": 19,
+      "sentiment": -3.8508427994687187e-13
+    },
+    {
+      "id": "mueller",
+      "frequency": 6,
+      "sentiment": -0.02084541666666667
+    },
+    {
+      "id": "months",
+      "frequency": 13,
+      "sentiment": 9.929306804306808e-11
+    },
+    {
+      "id": "back",
+      "frequency": 19,
+      "sentiment": 2.0025339218867017e-14
+    },
+    {
+      "id": "nuclear",
+      "frequency": 18,
+      "sentiment": 0.021029258798161993
+    },
+    {
+      "id": "technology",
+      "frequency": 13,
+      "sentiment": -0.03127481529539776
+    },
+    {
+      "id": "dday",
+      "frequency": 21,
+      "sentiment": 0.01559289207808641
+    },
+    {
+      "id": "military",
+      "frequency": 15,
+      "sentiment": 0.023567713251609133
+    },
+    {
+      "id": "sudan",
+      "frequency": 13,
+      "sentiment": -0.052480216539536856
+    },
+    {
+      "id": "leader",
+      "frequency": 14,
+      "sentiment": -0.04838430118317575
+    },
+    {
+      "id": "uae",
+      "frequency": 40,
+      "sentiment": -8.14701136547545e-09
+    },
+    {
+      "id": "brutal",
+      "frequency": 13,
+      "sentiment": -0.05248021676767163
+    },
+    {
+      "id": "woman",
+      "frequency": 25,
+      "sentiment": 0.0007412661311920929
+    },
+    {
+      "id": "fell",
+      "frequency": 7,
+      "sentiment": 0.0652731746031746
+    },
+    {
+      "id": "make",
+      "frequency": 11,
+      "sentiment": 8.941897146063812e-05
+    },
+    {
+      "id": "worse",
+      "frequency": 9,
+      "sentiment": -0.03652263282627866
+    },
+    {
+      "id": "gave",
+      "frequency": 7,
+      "sentiment": 0.013505178571428572
+    },
+    {
+      "id": "wild",
+      "frequency": 97,
+      "sentiment": 0.0009376028303661179
+    },
+    {
+      "id": "morning",
+      "frequency": 14,
+      "sentiment": 0.03953431805968227
+    },
+    {
+      "id": "poll",
+      "frequency": 14,
+      "sentiment": 0.0038280099910802112
+    },
+    {
+      "id": "americans",
+      "frequency": 20,
+      "sentiment": -0.028391570798953714
+    },
+    {
+      "id": "fake",
+      "frequency": 16,
+      "sentiment": -0.059352502339200044
+    },
+    {
+      "id": "terrorism",
+      "frequency": 67,
+      "sentiment": -0.011889136330833494
+    },
+    {
+      "id": "job",
+      "frequency": 16,
+      "sentiment": -0.030878090389604356
+    },
+    {
+      "id": "questions",
+      "frequency": 14,
+      "sentiment": -0.06074169347998071
+    },
+    {
+      "id": "law",
+      "frequency": 18,
+      "sentiment": 0.02006227612073136
+    },
+    {
+      "id": "aoc",
+      "frequency": 91,
+      "sentiment": 0.0010001248914421228
+    },
+    {
+      "id": "muslim",
+      "frequency": 18,
+      "sentiment": 0.019053644267397758
+    },
+    {
+      "id": "nazi",
+      "frequency": 15,
+      "sentiment": -0.014800523968775842
+    },
+    {
+      "id": "gopchairwoman",
+      "frequency": 18,
+      "sentiment": 0.03381569907261048
+    },
+    {
+      "id": "violence",
+      "frequency": 31,
+      "sentiment": 0.015398487580061706
+    },
+    {
+      "id": "supremacist",
+      "frequency": 17,
+      "sentiment": -0.0603439620103698
+    },
+    {
+      "id": "cup",
+      "frequency": 19,
+      "sentiment": 0.0007343311994407322
+    },
+    {
+      "id": "un",
+      "frequency": 20,
+      "sentiment": 0.0011747010317710097
+    },
+    {
+      "id": "oil",
+      "frequency": 19,
+      "sentiment": 0.02349402063689355
+    },
+    {
+      "id": "money",
+      "frequency": 19,
+      "sentiment": 0.050904546952467045
+    },
+    {
+      "id": "accused",
+      "frequency": 21,
+      "sentiment": -0.020877378015638347
+    },
+    {
+      "id": "saudiarabia",
+      "frequency": 22,
+      "sentiment": 0.03300297632396449
+    },
+    {
+      "id": "tariffs",
+      "frequency": 53,
+      "sentiment": 0.006540929890867545
+    },
+    {
+      "id": "companies",
+      "frequency": 7,
+      "sentiment": 0.06714281746031746
+    },
+    {
+      "id": "tried",
+      "frequency": 162,
+      "sentiment": 0.0005590498956609779
+    },
+    {
+      "id": "first",
+      "frequency": 92,
+      "sentiment": 0.000989131792298284
+    },
+    {
+      "id": "fbi",
+      "frequency": 84,
+      "sentiment": 2.4605357369370944e-11
+    },
+    {
+      "id": "witness",
+      "frequency": 80,
+      "sentiment": 0.0011394254795894067
+    },
+    {
+      "id": "give",
+      "frequency": 82,
+      "sentiment": 0.0011112826596626903
+    }
+  ],
+  "edges": [
+    {
+      "source": "people",
+      "target": "united",
+      "co-occurance": 7
+    },
+    {
+      "source": "people",
+      "target": "selling",
+      "co-occurance": 8
+    },
+    {
+      "source": "people",
+      "target": "dont",
+      "co-occurance": 8
+    },
+    {
+      "source": "people",
+      "target": "national",
+      "co-occurance": 8
+    },
+    {
+      "source": "people",
+      "target": "military",
+      "co-occurance": 12
+    },
+    {
+      "source": "people",
+      "target": "sudan",
+      "co-occurance": 12
+    },
+    {
+      "source": "people",
+      "target": "leader",
+      "co-occurance": 12
+    },
+    {
+      "source": "people",
+      "target": "uae",
+      "co-occurance": 12
+    },
+    {
+      "source": "united",
+      "target": "top",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "countries",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "world",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "afghanistan",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "syria",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "somalia",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "arabia",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "yemen",
+      "co-occurance": 5
+    },
+    {
+      "source": "united",
+      "target": "compromised",
+      "co-occurance": 7
+    },
+    {
+      "source": "united",
+      "target": "american",
+      "co-occurance": 7
+    },
+    {
+      "source": "top",
+      "target": "states",
+      "co-occurance": 5
+    },
+    {
+      "source": "world",
+      "target": "across",
+      "co-occurance": 7
+    },
+    {
+      "source": "world",
+      "target": "uk",
+      "co-occurance": 7
+    },
+    {
+      "source": "world",
+      "target": "ive",
+      "co-occurance": 7
+    },
+    {
+      "source": "world",
+      "target": "ever",
+      "co-occurance": 7
+    },
+    {
+      "source": "world",
+      "target": "cup",
+      "co-occurance": 17
+    },
+    {
+      "source": "afghanistan",
+      "target": "says",
+      "co-occurance": 5
+    },
+    {
+      "source": "arabia",
+      "target": "politico",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "wants",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "emergency",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "authority",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "bypass",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "arms",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "exclusive",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "via",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "help",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "china",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "support",
+      "co-occurance": 8
+    },
+    {
+      "source": "arabia",
+      "target": "report",
+      "co-occurance": 11
+    },
+    {
+      "source": "arabia",
+      "target": "months",
+      "co-occurance": 11
+    },
+    {
+      "source": "arabia",
+      "target": "back",
+      "co-occurance": 11
+    },
+    {
+      "source": "yemen",
+      "target": "saudi",
+      "co-occurance": 5
+    },
+    {
+      "source": "states",
+      "target": "released",
+      "co-occurance": 8
+    },
+    {
+      "source": "states",
+      "target": "july",
+      "co-occurance": 8
+    },
+    {
+      "source": "states",
+      "target": "arizona",
+      "co-occurance": 8
+    },
+    {
+      "source": "states",
+      "target": "kansas",
+      "co-occurance": 8
+    },
+    {
+      "source": "saudi",
+      "target": "saudis",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudi",
+      "target": "another",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudi",
+      "target": "say",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudi",
+      "target": "good",
+      "co-occurance": 6
+    },
+    {
+      "source": "saudi",
+      "target": "things",
+      "co-occurance": 6
+    },
+    {
+      "source": "saudi",
+      "target": "done",
+      "co-occurance": 6
+    },
+    {
+      "source": "saudi",
+      "target": "football",
+      "co-occurance": 6
+    },
+    {
+      "source": "saudi",
+      "target": "rules",
+      "co-occurance": 6
+    },
+    {
+      "source": "saudi",
+      "target": "eid",
+      "co-occurance": 7
+    },
+    {
+      "source": "saudi",
+      "target": "family",
+      "co-occurance": 7
+    },
+    {
+      "source": "saudi",
+      "target": "driving",
+      "co-occurance": 7
+    },
+    {
+      "source": "saudi",
+      "target": "brutal",
+      "co-occurance": 12
+    },
+    {
+      "source": "saudi",
+      "target": "un",
+      "co-occurance": 18
+    },
+    {
+      "source": "saudi",
+      "target": "oil",
+      "co-occurance": 18
+    },
+    {
+      "source": "saudi",
+      "target": "money",
+      "co-occurance": 18
+    },
+    {
+      "source": "saudis",
+      "target": "one",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudis",
+      "target": "anything",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudis",
+      "target": "trump",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudis",
+      "target": "end",
+      "co-occurance": 5
+    },
+    {
+      "source": "saudis",
+      "target": "nuclear",
+      "co-occurance": 11
+    },
+    {
+      "source": "saudis",
+      "target": "technology",
+      "co-occurance": 11
+    },
+    {
+      "source": "say",
+      "target": "america",
+      "co-occurance": 8
+    },
+    {
+      "source": "say",
+      "target": "russian",
+      "co-occurance": 8
+    },
+    {
+      "source": "say",
+      "target": "woman",
+      "co-occurance": 12
+    },
+    {
+      "source": "say",
+      "target": "morning",
+      "co-occurance": 12
+    },
+    {
+      "source": "trump",
+      "target": "know",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "didnt",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "iran",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "years",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "calling",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "deal",
+      "co-occurance": 5
+    },
+    {
+      "source": "trump",
+      "target": "said",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "palmerreport",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "attacked",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "bette",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "midler",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "chuck",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "biden",
+      "co-occurance": 6
+    },
+    {
+      "source": "trump",
+      "target": "fortune",
+      "co-occurance": 7
+    },
+    {
+      "source": "know",
+      "target": "think",
+      "co-occurance": 5
+    },
+    {
+      "source": "know",
+      "target": "donald",
+      "co-occurance": 6
+    },
+    {
+      "source": "iran",
+      "target": "foreign",
+      "co-occurance": 5
+    },
+    {
+      "source": "iran",
+      "target": "policy",
+      "co-occurance": 5
+    },
+    {
+      "source": "years",
+      "target": "see",
+      "co-occurance": 5
+    },
+    {
+      "source": "years",
+      "target": "144k",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "apprehensions",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "increase",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "april",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "highest",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "figure",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "clearly",
+      "co-occurance": 7
+    },
+    {
+      "source": "years",
+      "target": "need",
+      "co-occurance": 7
+    },
+    {
+      "source": "foreign",
+      "target": "obama",
+      "co-occurance": 5
+    },
+    {
+      "source": "foreign",
+      "target": "us",
+      "co-occurance": 5
+    },
+    {
+      "source": "see",
+      "target": "obamas",
+      "co-occurance": 5
+    },
+    {
+      "source": "obama",
+      "target": "charliekirk11",
+      "co-occurance": 8
+    },
+    {
+      "source": "us",
+      "target": "president",
+      "co-occurance": 5
+    },
+    {
+      "source": "us",
+      "target": "security",
+      "co-occurance": 5
+    },
+    {
+      "source": "us",
+      "target": "must",
+      "co-occurance": 5
+    },
+    {
+      "source": "us",
+      "target": "mitch",
+      "co-occurance": 5
+    },
+    {
+      "source": "us",
+      "target": "mcconnell",
+      "co-occurance": 5
+    },
+    {
+      "source": "us",
+      "target": "washington",
+      "co-occurance": 7
+    },
+    {
+      "source": "us",
+      "target": "bad",
+      "co-occurance": 8
+    },
+    {
+      "source": "us",
+      "target": "got",
+      "co-occurance": 8
+    },
+    {
+      "source": "us",
+      "target": "army",
+      "co-occurance": 8
+    },
+    {
+      "source": "us",
+      "target": "indigenous",
+      "co-occurance": 8
+    },
+    {
+      "source": "us",
+      "target": "accused",
+      "co-occurance": 20
+    },
+    {
+      "source": "us",
+      "target": "saudiarabia",
+      "co-occurance": 20
+    },
+    {
+      "source": "must",
+      "target": "want",
+      "co-occurance": 5
+    },
+    {
+      "source": "mitch",
+      "target": "start",
+      "co-occurance": 7
+    },
+    {
+      "source": "mitch",
+      "target": "johncornyn",
+      "co-occurance": 7
+    },
+    {
+      "source": "mitch",
+      "target": "putting",
+      "co-occurance": 7
+    },
+    {
+      "source": "mitch",
+      "target": "taking",
+      "co-occurance": 7
+    },
+    {
+      "source": "mitch",
+      "target": "accountability",
+      "co-occurance": 7
+    },
+    {
+      "source": "mcconnell",
+      "target": "tell",
+      "co-occurance": 7
+    },
+    {
+      "source": "want",
+      "target": "tickets",
+      "co-occurance": 8
+    },
+    {
+      "source": "want",
+      "target": "release",
+      "co-occurance": 8
+    },
+    {
+      "source": "want",
+      "target": "friend",
+      "co-occurance": 8
+    },
+    {
+      "source": "want",
+      "target": "chance",
+      "co-occurance": 8
+    },
+    {
+      "source": "want",
+      "target": "score",
+      "co-occurance": 8
+    },
+    {
+      "source": "good",
+      "target": "list",
+      "co-occurance": 6
+    },
+    {
+      "source": "good",
+      "target": "arabian",
+      "co-occurance": 6
+    },
+    {
+      "source": "good",
+      "target": "government",
+      "co-occurance": 6
+    },
+    {
+      "source": "football",
+      "target": "al",
+      "co-occurance": 6
+    },
+    {
+      "source": "football",
+      "target": "hilal",
+      "co-occurance": 6
+    },
+    {
+      "source": "football",
+      "target": "club",
+      "co-occurance": 6
+    },
+    {
+      "source": "palmerreport",
+      "target": "cnn",
+      "co-occurance": 6
+    },
+    {
+      "source": "palmerreport",
+      "target": "bill",
+      "co-occurance": 6
+    },
+    {
+      "source": "attacked",
+      "target": "schumer",
+      "co-occurance": 6
+    },
+    {
+      "source": "donald",
+      "target": "day",
+      "co-occurance": 5
+    },
+    {
+      "source": "donald",
+      "target": "judges",
+      "co-occurance": 5
+    },
+    {
+      "source": "donald",
+      "target": "gets",
+      "co-occurance": 5
+    },
+    {
+      "source": "day",
+      "target": "amp",
+      "co-occurance": 5
+    },
+    {
+      "source": "judges",
+      "target": "gop",
+      "co-occurance": 5
+    },
+    {
+      "source": "judges",
+      "target": "collins",
+      "co-occurance": 5
+    },
+    {
+      "source": "judges",
+      "target": "claims",
+      "co-occurance": 5
+    },
+    {
+      "source": "judges",
+      "target": "trumps",
+      "co-occurance": 5
+    },
+    {
+      "source": "amp",
+      "target": "made",
+      "co-occurance": 5
+    },
+    {
+      "source": "amp",
+      "target": "immigration",
+      "co-occurance": 5
+    },
+    {
+      "source": "amp",
+      "target": "house",
+      "co-occurance": 5
+    },
+    {
+      "source": "amp",
+      "target": "enough",
+      "co-occurance": 5
+    },
+    {
+      "source": "amp",
+      "target": "reform",
+      "co-occurance": 5
+    },
+    {
+      "source": "amp",
+      "target": "congress",
+      "co-occurance": 6
+    },
+    {
+      "source": "trumps",
+      "target": "problem",
+      "co-occurance": 7
+    },
+    {
+      "source": "trumps",
+      "target": "cant",
+      "co-occurance": 7
+    },
+    {
+      "source": "trumps",
+      "target": "authoritarian",
+      "co-occurance": 7
+    },
+    {
+      "source": "trumps",
+      "target": "alone",
+      "co-occurance": 7
+    },
+    {
+      "source": "made",
+      "target": "mexico",
+      "co-occurance": 5
+    },
+    {
+      "source": "immigration",
+      "target": "border",
+      "co-occurance": 5
+    },
+    {
+      "source": "house",
+      "target": "may",
+      "co-occurance": 5
+    },
+    {
+      "source": "mexico",
+      "target": "go",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "white",
+      "co-occurance": 6
+    },
+    {
+      "source": "congress",
+      "target": "bipartisan",
+      "co-occurance": 8
+    },
+    {
+      "source": "congress",
+      "target": "group",
+      "co-occurance": 8
+    },
+    {
+      "source": "white",
+      "target": "muslim",
+      "co-occurance": 13
+    },
+    {
+      "source": "white",
+      "target": "nazi",
+      "co-occurance": 13
+    },
+    {
+      "source": "uk",
+      "target": "realdonaldtrump",
+      "co-occurance": 6
+    },
+    {
+      "source": "uk",
+      "target": "hearing",
+      "co-occurance": 6
+    },
+    {
+      "source": "uk",
+      "target": "would",
+      "co-occurance": 6
+    },
+    {
+      "source": "uk",
+      "target": "quite",
+      "co-occurance": 6
+    },
+    {
+      "source": "uk",
+      "target": "big",
+      "co-occurance": 6
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "cc",
+      "co-occurance": 5
+    },
+    {
+      "source": "realdonaldtrump",
+      "target": "tariffs",
+      "co-occurance": 37
+    },
+    {
+      "source": "big",
+      "target": "senwarren",
+      "co-occurance": 10
+    },
+    {
+      "source": "big",
+      "target": "unlike",
+      "co-occurance": 10
+    },
+    {
+      "source": "ive",
+      "target": "news",
+      "co-occurance": 8
+    },
+    {
+      "source": "ive",
+      "target": "even",
+      "co-occurance": 8
+    },
+    {
+      "source": "ever",
+      "target": "gtconway3d",
+      "co-occurance": 10
+    },
+    {
+      "source": "ever",
+      "target": "gopchairwoman",
+      "co-occurance": 13
+    },
+    {
+      "source": "eid",
+      "target": "street",
+      "co-occurance": 7
+    },
+    {
+      "source": "fortune",
+      "target": "secret",
+      "co-occurance": 7
+    },
+    {
+      "source": "fortune",
+      "target": "probably",
+      "co-occurance": 7
+    },
+    {
+      "source": "fortune",
+      "target": "administration",
+      "co-occurance": 7
+    },
+    {
+      "source": "washington",
+      "target": "dc",
+      "co-occurance": 7
+    },
+    {
+      "source": "washington",
+      "target": "best",
+      "co-occurance": 7
+    },
+    {
+      "source": "start",
+      "target": "bills",
+      "co-occurance": 7
+    },
+    {
+      "source": "start",
+      "target": "qatar",
+      "co-occurance": 10
+    },
+    {
+      "source": "problem",
+      "target": "poll",
+      "co-occurance": 12
+    },
+    {
+      "source": "problem",
+      "target": "americans",
+      "co-occurance": 12
+    },
+    {
+      "source": "problem",
+      "target": "fake",
+      "co-occurance": 12
+    },
+    {
+      "source": "problem",
+      "target": "terrorism",
+      "co-occurance": 12
+    },
+    {
+      "source": "politico",
+      "target": "senators",
+      "co-occurance": 8
+    },
+    {
+      "source": "exclusive",
+      "target": "ballistic",
+      "co-occurance": 8
+    },
+    {
+      "source": "exclusive",
+      "target": "missile",
+      "co-occurance": 8
+    },
+    {
+      "source": "exclusive",
+      "target": "program",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "era",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "scandals",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "irs",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "targeting",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "benghazi",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "fast",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "furious",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "spying",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "campaign",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "allowing",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "russia",
+      "co-occurance": 8
+    },
+    {
+      "source": "charliekirk11",
+      "target": "interfere",
+      "co-occurance": 8
+    },
+    {
+      "source": "got",
+      "target": "year",
+      "co-occurance": 8
+    },
+    {
+      "source": "got",
+      "target": "company",
+      "co-occurance": 8
+    },
+    {
+      "source": "got",
+      "target": "took",
+      "co-occurance": 8
+    },
+    {
+      "source": "got",
+      "target": "game",
+      "co-occurance": 9
+    },
+    {
+      "source": "got",
+      "target": "thrones",
+      "co-occurance": 9
+    },
+    {
+      "source": "game",
+      "target": "tomorrow",
+      "co-occurance": 9
+    },
+    {
+      "source": "game",
+      "target": "wtf",
+      "co-occurance": 9
+    },
+    {
+      "source": "game",
+      "target": "anniversary",
+      "co-occurance": 9
+    },
+    {
+      "source": "game",
+      "target": "still",
+      "co-occurance": 9
+    },
+    {
+      "source": "game",
+      "target": "instead",
+      "co-occurance": 9
+    },
+    {
+      "source": "gtconway3d",
+      "target": "according",
+      "co-occurance": 10
+    },
+    {
+      "source": "gtconway3d",
+      "target": "celebrating",
+      "co-occurance": 10
+    },
+    {
+      "source": "gtconway3d",
+      "target": "evidence",
+      "co-occurance": 10
+    },
+    {
+      "source": "gtconway3d",
+      "target": "dday",
+      "co-occurance": 11
+    },
+    {
+      "source": "report",
+      "target": "mueller",
+      "co-occurance": 5
+    },
+    {
+      "source": "woman",
+      "target": "fell",
+      "co-occurance": 6
+    },
+    {
+      "source": "woman",
+      "target": "make",
+      "co-occurance": 6
+    },
+    {
+      "source": "woman",
+      "target": "worse",
+      "co-occurance": 6
+    },
+    {
+      "source": "woman",
+      "target": "gave",
+      "co-occurance": 6
+    },
+    {
+      "source": "fell",
+      "target": "wild",
+      "co-occurance": 6
+    },
+    {
+      "source": "terrorism",
+      "target": "job",
+      "co-occurance": 12
+    },
+    {
+      "source": "terrorism",
+      "target": "questions",
+      "co-occurance": 12
+    },
+    {
+      "source": "terrorism",
+      "target": "law",
+      "co-occurance": 12
+    },
+    {
+      "source": "job",
+      "target": "aoc",
+      "co-occurance": 12
+    },
+    {
+      "source": "aoc",
+      "target": "tried",
+      "co-occurance": 77
+    },
+    {
+      "source": "aoc",
+      "target": "first",
+      "co-occurance": 77
+    },
+    {
+      "source": "aoc",
+      "target": "fbi",
+      "co-occurance": 77
+    },
+    {
+      "source": "aoc",
+      "target": "witness",
+      "co-occurance": 77
+    },
+    {
+      "source": "aoc",
+      "target": "give",
+      "co-occurance": 77
+    },
+    {
+      "source": "muslim",
+      "target": "violence",
+      "co-occurance": 13
+    },
+    {
+      "source": "nazi",
+      "target": "supremacist",
+      "co-occurance": 13
+    },
+    {
+      "source": "tariffs",
+      "target": "companies",
+      "co-occurance": 6
+    }
+  ]
+}
